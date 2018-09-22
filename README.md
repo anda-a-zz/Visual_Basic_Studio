@@ -1,2 +1,4 @@
 # Visual_Basic_Studio
-Projects I worked on in my Video Game Design course in 2016
+
+Smarticle is a program created in 2016 for my Video Game Design course. I designed and programmed a mathematical testing game with a partner. 
+See the .exe file to run the program.
