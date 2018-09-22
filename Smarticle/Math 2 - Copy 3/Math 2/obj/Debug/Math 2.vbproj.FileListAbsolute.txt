@@ -1,0 +1,143 @@
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\bin\Debug\Math 2.exe.config
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\bin\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\bin\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\bin\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.Resources.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmReportCard.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\bin\Debug\Math 2.exe.config
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\bin\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\bin\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\bin\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmReportCard.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math_2.Resources.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\bin\Debug\Math 2.exe.config
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math 2.exe
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math 2.xml
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math 2.pdb
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\bin\Debug\Math 2.exe
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\bin\Debug\Math 2.pdb
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\bin\Debug\Math 2.xml
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmReportCard.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.Resources.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmAbout.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy\Math 2\obj\Debug\Math_2.frmMathInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.exe.config
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAbout.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmMathInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReportCard.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.Resources.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReadWordsInstructions.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.exe.config
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.exe
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.xml
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.pdb
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.exe
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.pdb
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.xml
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAbout.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmMathInstructions.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReadWordsInstructions.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.frmReportCard.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math_2.Resources.resources
+C:\Users\Anda\Documents\Visual Studio 2012\Projects\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+F:\Math 2 - Copy 2\Math 2\bin\Debug\Math 2.exe.config
+F:\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.exe
+F:\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.xml
+F:\Math 2 - Copy 2\Math 2\obj\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.exe.config
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.exe
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.pdb
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.xml
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAbout.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmMathInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReadWordsInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReportCard.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.Resources.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLoad.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLostLetterInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLostLetter.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyLostLetter.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLEMMain.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLessEqualsInstructions.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLessEqualsMore.resources
+H:\Profile\Desktop\AWS\Unit 3\Assignments\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmSplash.resources
+C:\Users\Anda\Desktop\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.exe.config
+C:\Users\Anda\Desktop\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.exe
+C:\Users\Anda\Desktop\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.xml
+C:\Users\Anda\Desktop\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.pdb
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.exe.config
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.exe
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.xml
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.pdb
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.exe
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.pdb
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\bin\Debug\Math 2.xml
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLEMMain.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLessEqualsInstructions.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLessEqualsMore.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLostLetterInstructions.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLoad.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAbout.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyMath.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyReadWords.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmGamePicker.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmLostLetter.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmAskLevelDifficultyLostLetter.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmMathInstructions.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmMathOperations.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReadtheWords.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReadWordsInstructions.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmReportCard.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.frmSplash.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math_2.Resources.resources
+E:\Work\Homework\Video Game Design\Games\Math 2 - Copy 3-20161122T232129Z\Math 2 - Copy 3\Math 2\obj\Debug\Math 2.vbproj.GenerateResource.Cache
